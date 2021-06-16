@@ -10,6 +10,9 @@ namespace Pangram
             Pangram p = new Pangram();
             Console.WriteLine(p.IsPangram("The quick brown fox jumps over the lazy dog"));
             Console.WriteLine(p.IsPangram("I am programmer"));
+
+            Console.WriteLine(p.IsPangramLinq("The quick brown fox jumps over the lazy dog"));
+            Console.WriteLine(p.IsPangramLinq("I am programmer"));
         }
         public class Pangram
         {
@@ -42,6 +45,11 @@ namespace Pangram
                         count = 0;
                 }
                 return ans;
+            }
+
+            public bool IsPangramLinq(string sentence)
+            {
+                return "qwertyuiopasdfghjklzxcvbnm".Where(x => sentence.ToLower().Contains(x)).Count() == 26 ? true : false;
             }
         }
     }

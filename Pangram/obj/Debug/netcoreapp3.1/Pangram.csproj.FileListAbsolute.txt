@@ -11,3 +11,16 @@ D:\Kamizelich\3. Pangram\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.csproj.
 D:\Kamizelich\3. Pangram\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.dll
 D:\Kamizelich\3. Pangram\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.pdb
 D:\Kamizelich\3. Pangram\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.genruntimeconfig.cache
+D:\Kamizelich\3. Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.exe
+D:\Kamizelich\3. Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.deps.json
+D:\Kamizelich\3. Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.json
+D:\Kamizelich\3. Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.dev.json
+D:\Kamizelich\3. Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.dll
+D:\Kamizelich\3. Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.pdb
+D:\Kamizelich\3. Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.csprojAssemblyReference.cache
+D:\Kamizelich\3. Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfoInputs.cache
+D:\Kamizelich\3. Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfo.cs
+D:\Kamizelich\3. Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.csproj.CoreCompileInputs.cache
+D:\Kamizelich\3. Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.dll
+D:\Kamizelich\3. Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.pdb
+D:\Kamizelich\3. Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.genruntimeconfig.cache
